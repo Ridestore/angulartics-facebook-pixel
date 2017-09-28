@@ -1,6 +1,6 @@
 {
   "name": "angulartics-facebook-pixel-extended",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "description": "Facebook Pixel plugin for Angulartics",
   "main": "./lib/index.js",
   "scripts": {
